@@ -1,0 +1,8 @@
+/* 自定义时钟样式 */
+.card-background {
+    background-color: transparent;
+    box-shadow: none;
+}
+.card-background .clock-row {
+    color: var(--font-color);
+}
